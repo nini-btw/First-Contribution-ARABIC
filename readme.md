@@ -2316,17 +2316,11 @@
             <a href="https://github.com/Yarob50">
                 <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
                 <br>
-                <h2>يعرُب المصطفى</h2>
+                <h2>دنيدني محمد الأمين</h2>
             </a>
             <br>            
             <table>
                 <tr> 
-                    <!-- TWITTER -->
-                    <td>
-                        <a href="https://x.com/denimohammedela">
-                            <img src="./images/twitter-logo.png" width="30">
-                        </a>
-                    </td>
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
